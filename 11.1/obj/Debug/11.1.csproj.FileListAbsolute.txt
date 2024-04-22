@@ -1,0 +1,10 @@
+C:\Users\MVM\Desktop\11.1\bin\Debug\11.1.exe.config
+C:\Users\MVM\Desktop\11.1\bin\Debug\11.1.exe
+C:\Users\MVM\Desktop\11.1\bin\Debug\11.1.pdb
+C:\Users\MVM\Desktop\11.1\obj\Debug\11.1.csproj.AssemblyReference.cache
+C:\Users\MVM\Desktop\11.1\obj\Debug\_11._1.Form1.resources
+C:\Users\MVM\Desktop\11.1\obj\Debug\_11._1.Properties.Resources.resources
+C:\Users\MVM\Desktop\11.1\obj\Debug\11.1.csproj.GenerateResource.cache
+C:\Users\MVM\Desktop\11.1\obj\Debug\11.1.csproj.CoreCompileInputs.cache
+C:\Users\MVM\Desktop\11.1\obj\Debug\11.1.exe
+C:\Users\MVM\Desktop\11.1\obj\Debug\11.1.pdb
